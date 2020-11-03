@@ -25,5 +25,6 @@ Soy el creador, organizador y el mayor contribuidor del repositorio [DynoCC-ES](
 **Otro:**
 
 *Correo:* `Blyxyas@gmail.com`
+*Youtube (Actualmente inactivo):* `Blyxyas`
 
 ![DynoCC-ES Repository](https://github-readme-stats.vercel.app/api?username=Blyxyas&show_icons=true&theme=tokyonight)
