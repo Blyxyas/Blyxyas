@@ -2,7 +2,7 @@
 
 Hola! 👋 Soy **Blyxyas**, un desarrollador de *Comandos personalizados de **Dyno***!
 
-Soy el creador, organizador y el mayor contribuidor del repositorio [DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES), que es el mayor y único repositório de comandos personalizados en español.
+Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES)**, que es el mayor y único repositório de comandos personalizados en español.
 
 ## **Mis Redes:**
 
@@ -25,6 +25,7 @@ Soy el creador, organizador y el mayor contribuidor del repositorio [DynoCC-ES](
 **Otro:**
 
 *Correo:* `Blyxyas@gmail.com`
+
 *Youtube (Actualmente inactivo):* `Blyxyas`
 
 ![DynoCC-ES Repository](https://github-readme-stats.vercel.app/api?username=Blyxyas&show_icons=true&theme=tokyonight)
