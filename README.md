@@ -2,7 +2,7 @@
 
 Hola! 👋 Soy **Blyxyas**, un desarrollador de *Comandos personalizados de **Dyno***!
 
-Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES)**, que es el mayor y único repositório de comandos personalizados en español.
+Soy el creador, organizador y el mayor contribuidor del repositorio [DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES), que es el mayor y único repositório de comandos personalizados en español.
 
 ## **Mis Redes:**
 
@@ -12,20 +12,20 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 
 **Discord:**
 
-*Usuario de Discord:* `Blyxya#6587`
+*Usuario de Discord:* "`Blyxya#6587`"
 
-*Servidor de Discord:* `https://discord.gg/MdxCE2R` [(Aquí)](https://discord.gg/MdxCE2R)
+*Servidor de Discord:* "`https://discord.gg/MdxCE2R`" [(Aquí)](https://discord.gg/MdxCE2R)
 
 **GitHub:**
 
-*Perfíl:* `https://github.com/Blyxyas` [(Aquí)](https://github.com/Blyxyas)
+*Perfíl:* "`https://github.com/Blyxyas`" [(Aquí)](https://github.com/Blyxyas)
 
-*DynoCC-ES*: `https://github.com/Blyxyas/DynoCC-ES` [(Aquí)](https://github.com/Blyxyas/DynoCC-ES)
+*DynoCC-ES*: "`https://github.com/Blyxyas/DynoCC-ES`" [(Aquí)](https://github.com/Blyxyas/DynoCC-ES)
 
 **Otro:**
 
-*Correo:* `Blyxyas@gmail.com`
+*Correo:* "`Blyxyas@gmail.com`"
 
-*Youtube (Actualmente inactivo):* `Blyxyas`
+*Youtube (Actualmente inactivo):* "`Blyxyas`"
 
 ![DynoCC-ES Repository](https://github-readme-stats.vercel.app/api?username=Blyxyas&show_icons=true&theme=tokyonight)
