@@ -8,32 +8,32 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 
 ---
 
-<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+## <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
 
 **Usuario de Discord:** "`Blyxya#6587`"
 
 **Servidor de Discord:** "`https://discord.gg/MdxCE2R`" [(Aquí)](https://discord.gg/MdxCE2R)
 
-<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+## <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 **Perfíl:** "`https://github.com/Blyxyas`" [(Aquí)](https://github.com/Blyxyas)
 
 **DynoCC-ES**: "`https://github.com/Blyxyas/DynoCC-ES`" [(Aquí)](https://github.com/Blyxyas/DynoCC-ES)
 
-<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
+## <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 
 
 **Correo:** "`Blyxyas@gmail.com`"
 
 **Youtube (Actualmente inactivo):** "`Blyxyas`"
 
-*Siéntete completamente libre de hablarme! Seguramente si no te respondo será porque mi ordenador está en llamas*
+### *Siéntete completamente libre de hablarme! Seguramente si no te respondo será porque mi ordenador está en llamas*
 
 ![gif](https://media.giphy.com/media/dbtDDSvWErdf2/source.gif)
 
 ---
 
-**Estadísticas: 📈**
+# **Estadísticas: 📈**
 
 ```
 *1* ▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ 60% Creador de Comandos ⚙
@@ -42,7 +42,7 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 *4* ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ 400% Enfocado a **Dyno** 🐲
 ```
 
-![jsfdhuuh](https://github-readme-stats.vercel.app/api?username=blyxyas&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=blyxyas&show_icons=true&theme=tokyonight)
 
 **Buenas estadísticas! ≧ ◉ ᴗ ◉ ≦**
 
@@ -50,6 +50,6 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 
  **¡Feliz Navidad! ^^**
 
- **Con besos, Blyxyas**
+ **Con besos, Blyxyas!**
 
 ![Saludos](https://raw.githubusercontent.com/iSomething-Dev/DynoCC-Spanish/main/ignore/assets/firma.png)
