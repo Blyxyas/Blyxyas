@@ -32,6 +32,8 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 
 ![gif](https://media.giphy.com/media/dbtDDSvWErdf2/source.gif)
 
+---
+
 **Estadísticas: 📈**
 
 ```
@@ -43,5 +45,8 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 **Buenas estadísticas! ≧ ◉ ᴗ ◉ ≦**
 ```
 
+---
+
 Por cierto! **¡Feliz Navidad! ^^**
 
+![Saludos](https://raw.githubusercontent.com/iSomething-Dev/DynoCC-Spanish/main/ignore/assets/firma.png)
