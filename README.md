@@ -41,12 +41,16 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 *2* ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% Amante de **GATOS** 🐈 🐈
 *3* ▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 20% Persona Social 😷
 *4* ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ 400% Enfocado a **Dyno** 🐲
+```
+
+![jsfdhuuh](https://github-readme-stats.vercel.app/api?username=blyxyas&show_icons=true&theme=tokyonight)
 
 **Buenas estadísticas! ≧ ◉ ᴗ ◉ ≦**
-```
 
 ---
 
-Por cierto! **¡Feliz Navidad! ^^**
+ **¡Feliz Navidad! ^^**
+
+ **Con besos, Blyxyas**
 
 ![Saludos](https://raw.githubusercontent.com/iSomething-Dev/DynoCC-Spanish/main/ignore/assets/firma.png)
