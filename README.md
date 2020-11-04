@@ -36,10 +36,10 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 # **Estadísticas: 📈**
 
 ```
-*1* ▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ 60% Creador de Comandos ⚙
-*2* ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% Amante de **GATOS** 🐈 🐈
-*3* ▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 20% Persona Social 😷
-*4* ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ 400% Enfocado a **Dyno** 🐲
+1    ▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ 60% Creador de Comandos ⚙
+2    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% Amante de **GATOS** 🐈 🐈
+3    ▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 20% Persona Social 😷
+4    ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ 400% Enfocado a **Dyno** 🐲
 ```
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=blyxyas&show_icons=true&theme=tokyonight)
