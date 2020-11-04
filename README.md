@@ -29,3 +29,7 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 *Youtube (Actualmente inactivo):* `Blyxyas`
 
 ![DynoCC-ES Repository](https://github-readme-stats.vercel.app/api?username=Blyxyas&show_icons=true&theme=tokyonight)
+
+**Siéntete completamente libre de hablarme! Seguramente si no te respondo será porque mi ordenador está en llamas**
+
+![gif](https://media.giphy.com/media/dbtDDSvWErdf2/source.gif)
