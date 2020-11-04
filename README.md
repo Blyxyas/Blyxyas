@@ -2,7 +2,7 @@
 
 Hola! 👋 Soy **Blyxyas**, un desarrollador de *Comandos personalizados de **Dyno***!
 
-Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES)**, que es el mayor y único repositório de comandos personalizados en español.
+Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES)**, que es el mayor y único repositório de  comandos personalizados en español.
 
 ## **Mis Redes:**
 
@@ -28,8 +28,20 @@ Soy el creador, organizador y el mayor contribuidor del repositorio **[DynoCC-ES
 
 *Youtube (Actualmente inactivo):* `Blyxyas`
 
-![DynoCC-ES Repository](https://github-readme-stats.vercel.app/api?username=Blyxyas&show_icons=true&theme=tokyonight)
-
 **Siéntete completamente libre de hablarme! Seguramente si no te respondo será porque mi ordenador está en llamas**
 
 ![gif](https://media.giphy.com/media/dbtDDSvWErdf2/source.gif)
+
+**Estadísticas: 📈**
+
+```
+*1* ▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░ 60% Creador de Comandos ⚙
+*2* ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 100% Amante de **GATOS** 🐈 🐈
+*3* ▒▒▒▒▒░░░░░░░░░░░░░░ 20% Persona Social 😷
+*4* ▒▒▒▒▒▒▒▒▒▒░░░░░░░░░ 400% Enfocado a **Dyno** 🐲
+
+**Buenas estadísticas! ≧ ◉ ᴗ ◉ ≦**
+```
+
+Por cierto! **¡Feliz Navidad! ^^**
+
