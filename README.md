@@ -61,7 +61,7 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
  &nbsp;</a>
  
  <hr>
-
+ 
 *Con "`lo que quieras`" me refiero a que me puedes preguntar sobre lo que te salga de tu bonita cabecita.
 Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o decirme "`¿Hey que tal?`"*
 
