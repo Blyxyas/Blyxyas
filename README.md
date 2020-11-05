@@ -68,7 +68,7 @@ Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o de
 <ul style="list-style-type: circle;">
 <li style="text-align: left;">♻ <strong><a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">Aseg&uacute;rate</a>&nbsp;</strong>que tu respuesta no est&eacute; <strong>repetida.</strong></li>
 <li style="text-align: left;">🎁 <strong>NO</strong> metas <strong>insultos</strong> sorpresa!</li>
-<li style="text-align: left;"><strong>Puedes</strong> mandar perfectamente un mensaje <strong>sin</strong> una <strong>pregunta</strong>, pero esa es la gracia</li>
+<li style="text-align: left;"><strong>🕊️ Puedes</strong> mandar perfectamente un mensaje <strong>sin</strong> una <strong>pregunta</strong>, pero esa es la gracia</li>
 </ul>
 
 ---
