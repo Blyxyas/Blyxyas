@@ -61,9 +61,10 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
  &nbsp;</a>
  
  <hr>
+ <h4>
  
 *Con "`lo que quieras`" me refiero a que me puedes preguntar sobre lo que te salga de tu bonita cabecita.
-Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o decirme "`¿Hey que tal?`"*
+Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o decirme "`¿Hey que tal?`"*<h4>
 
 <ul style="list-style-type: circle;">
 <li style="text-align: left;">♻ <strong><a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">Aseg&uacute;rate</a>&nbsp;</strong>que tu respuesta no est&eacute; <strong>repetida.</strong></li>
