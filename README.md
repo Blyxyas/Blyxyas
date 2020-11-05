@@ -56,13 +56,13 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
 ---
 <h2 align="center">
  ✨ Pregúntame lo que quieras! ✨ <br><br>
- <a href="../../issues/new">:speech_balloon: Pregunta algo!</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Lee las preguntas!
+ <a href="../../issues/new">:speech_balloon: Pregunta algo!</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Lee las preguntas! <h2>
  
  &nbsp;</a>
  
  <hr>
 
-<h4> *Con "`lo que quieras`" me refiero a que me puedes preguntar sobre lo que te salga de tu bonita cabecita.
+*Con "`lo que quieras`" me refiero a que me puedes preguntar sobre lo que te salga de tu bonita cabecita.
 Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o decirme "`¿Hey que tal?`"*
 
 <ul style="list-style-type: circle;">
