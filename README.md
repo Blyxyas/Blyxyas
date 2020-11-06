@@ -12,7 +12,7 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
 
 <p><a href="https://discord.gg/MdxCE2R"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a></p>
 
-> <strong>Usuario de Discord:</strong> "<code>Blyxya#6587</code>"
+<strong>Usuario de Discord:</strong> "<code>Blyxya#6587</code>"
 
 -------------------
 
@@ -26,7 +26,7 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
 
 #### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
 
-><strong>(Actualmente inactivo):</strong> "<code>Blyxyas</code>"
+<strong>(Actualmente inactivo):</strong> "<code>Blyxyas</code>"
 
 ---
 
