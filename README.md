@@ -78,3 +78,8 @@ Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o de
 
 
 ![firma](https://raw.githubusercontent.com/iSomething-Dev/DynoCC-Spanish/main/ignore/assets/firma.png)
+
+
+<h2 align=left>
+
+<li style="list-style-type: circle"> <u>3244234<strong>
