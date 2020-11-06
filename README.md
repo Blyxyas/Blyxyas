@@ -1,35 +1,32 @@
-### Hey! Aquí Blyxyas
+<u><h1><strong>Hey! Aquí Blyxyas</strong></h1></u>
+
+
+
+> <li style="list-style-type: circle;">👋<f
+
 
 Hola! 👋 Soy **Blyxyas**, un desarrollador de *Comandos personalizados de **Dyno***!
-
 Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio **[DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES)**, que es el **mayor y único** repositório de  **comandos personalizados en español.**
+</i>
+<h1><strong>Mis Redes:</strong></h1>
 
-## **Mis Redes:**
+<p><a href="https://discord.gg/MdxCE2R"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a></p>
 
-<hr>
-
-<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
-
-#### **Usuario de Discord:** "`Blyxya#6587`"
-
-#### [**Servidor de Discord**](https://discord.gg/MdxCE2R)
+> <strong>Usuario de Discord:</strong> "<code>Blyxya#6587</code>"
 
 -------------------
 
-<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<p><a href="https://github.com/Blyxyas"><img src="https://img.shields.io/badge/Perfíl-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
-#### [**Perfíl**](https://github.com/Blyxyas)
-
-#### [**DynoCC-ES**](https://github.com/Blyxyas/DynoCC-ES)
+<p><a href="https://github.com/Blyxyas/DynoCC-ES"><img src="https://img.shields.io/badge/DynoCC--ES-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
+<a href="https://github.com/Blyxyas/DynoCC-ES"><img src="https://img.shields.io/badge/Correo-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
-<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"> &nbsp; &nbsp; <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 
+#### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
 
-#### [**Correo:**](https://mail.google.com/mail/u/0/#inbox?compose=new) "`Blyxyas@gmail.com`"
-
-#### **Youtube (Actualmente inactivo):** "`Blyxyas`"
+><strong>(Actualmente inactivo):</strong> "<code>Blyxyas</code>"
 
 ---
 
@@ -55,7 +52,7 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
 ```
 ---
 <h2 align="center">
- ✨ Pregúntame lo que quieras! ✨ <br><br>
+✨ Pregúntame lo que quieras! ✨ <br><br>
  <a href="../../issues/new">:speech_balloon: Pregunta algo!</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Lee las preguntas! <h2>
  
  &nbsp;</a>
