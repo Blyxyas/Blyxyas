@@ -70,7 +70,7 @@ Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o de
 </ul>
 
 ---
-<h0 align=center>
+<h1 align=center>
  
  **¡Feliz Navidad! ^^**
 
@@ -78,3 +78,5 @@ Puedes preguntarme cosas personales, de Dyno, preguntar cosas objetivamente o de
 
 
 ![firma](https://raw.githubusercontent.com/iSomething-Dev/DynoCC-Spanish/main/ignore/assets/firma.png)
+
+<h1>
