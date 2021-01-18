@@ -1,10 +1,5 @@
 <u><h1><strong>Hey! Aquí Blyxyas</strong></h1></u>
 
-
-
-> <li style="list-style-type: circle;">👋<f
-
-
 Hola! 👋 Soy **Blyxyas**, un desarrollador de *Comandos personalizados de **Dyno***!
 Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio **[DynoCC-ES](https://github.com/Blyxyas/DynoCC-ES)**, que es el **mayor y único** repositório de  **comandos personalizados en español.**
 </i>
