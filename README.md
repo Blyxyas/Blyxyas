@@ -35,8 +35,12 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
 1 |    ▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ 60% Creador de Comandos ⚙
 2 |    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% Amante de GATOS 🐈 🐈
 3 |    ▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 20% Persona Social 😷
-4 |    ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ 400% Enfocado a Dyno 🐲
+4 |    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 400% Enfocado a Dyno 🐲
 ```
+
+**También suelo usar HTML5 y CSS para algunas creaciones, así que si tienes algo que me preguntes sobre esos temas, puedes hacerlo sin ninguna duda!**
+
+
 #
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=blyxyas&show_icons=true&theme=tokyonight)
