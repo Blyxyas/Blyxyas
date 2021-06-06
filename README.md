@@ -16,14 +16,6 @@ Soy el **creador**, **organizador** y el mayor **contribuidor** del repositorio 
 <p><a href="https://github.com/Blyxyas/DynoCC-ES"><img src="https://img.shields.io/badge/DynoCC--ES-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
-<a href="https://github.com/Blyxyas/DynoCC-ES"><img src="https://img.shields.io/badge/Correo-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-
-
-#### <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
-
-<strong>(Actualmente inactivo):</strong> "<code>Blyxyas</code>"
-
----
 
 *Siéntete completamente libre de hablarme! Seguramente si no te respondo será porque mi ordenador está en llamas*
 
