@@ -5,5 +5,4 @@
   
   
 Que tal? Soy Blyxyas, un desarrollador web frontend, centrado en <b>JS, HTML5 y CSS3</b> pero sobre todo, amante de los gatos, los gatos son preciosos, bellos, mi fuente de vida y lo más puro en este mundo, quien diga lo contrario miente!.
-
-Os dejaría alguna foto de mi gato
+Si quieres puedes hablarme, pero no soy ningún experto.
