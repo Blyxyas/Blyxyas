@@ -7,4 +7,6 @@
 Que tal? Soy Blyxyas, un desarrollador web frontend, centrado en <b>JS, HTML5 y CSS3</b> pero sobre todo, amante de los gatos, los gatos son preciosos, bellos, mi fuente de vida y lo más puro en este mundo, quien diga lo contrario miente!.<br>
 Si quieres puedes hablarme, pero no soy ningún experto.<br>
 
+## Estadísticas
+
 [![Blyxyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blyxyas&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
