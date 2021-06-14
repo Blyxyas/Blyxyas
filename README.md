@@ -1,12 +1,9 @@
-<h1>🐈 Hola! Aquí Blyxyas 👋</h1>
-<p align="center">
-<img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" witdh="512" height="512">
-  </p>
-  
-  
-Que tal? Soy Blyxyas, un desarrollador web frontend, centrado en <b>JS, HTML5 y CSS3</b> pero sobre todo, amante de los gatos, los gatos son preciosos, bellos, mi fuente de vida y lo más puro en este mundo, quien diga lo contrario miente!.<br>
-Si quieres puedes hablarme, pero no soy ningún experto.<br>
+# Hi 👋
 
-## Estadísticas
+Hi, I'm Blyxyas, a front end web developer, and currently documenting about Neural Networks, Spanish and with so much love for cats, I love them, they're so squishy and cute, just see these images!
 
-[![Blyxyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blyxyas&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+If you're like asking yourself who I am (probably not) then I'm gonna answer you!
+
+I'm a Spanish student with high expectations and with a dream, converting myself into a professional in a Full Stack programmer.
+
+Bye!
